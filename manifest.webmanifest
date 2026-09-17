@@ -1,0 +1,9 @@
+{
+  "name":"Video Poker - Jacks or Better",
+  "short_name":"Video Poker",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#063c20",
+  "theme_color":"#087d39",
+  "orientation":"any"
+}
