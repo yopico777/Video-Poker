@@ -1,0 +1,1 @@
+@supports(padding:max(0px)){.game{padding-top:max(5px,env(safe-area-inset-top));padding-bottom:max(5px,env(safe-area-inset-bottom));padding-left:max(5px,env(safe-area-inset-left));padding-right:max(5px,env(safe-area-inset-right))}}@media(orientation:portrait) and (max-width:650px){.card{height:min(31vh,220px)}.paytable{font-size:5.5px}.controls{margin-top:1px}.note{display:none}}
